@@ -20,22 +20,6 @@ nav {
 li, a {
     list-style: none;
     color: white;
-    padding: 10px;
-    text-decoration: none;
+    padding: 5px;
 }
 
-@media only screen and (min-width: 600px) {
-    #main {
-        padding: 10px;
-    }
-}
-
-@media only screen and (min-width: 1280px) {
-    #main {
-        padding: 40px;
-    }
-
-    nav {
-        font-size: larger;
-    }
-}

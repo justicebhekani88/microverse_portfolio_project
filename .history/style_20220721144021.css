@@ -1,0 +1,8 @@
+body {
+    background-color: #202022;
+}
+
+nav, a {
+    color: white;
+    display: flex;
+}
