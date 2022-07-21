@@ -60,10 +60,6 @@ h3 {
     justify-content: center;
 }
 
-/* #project-name {
-    background: #313841;
-} */
-
 #projects-display {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));

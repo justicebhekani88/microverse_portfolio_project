@@ -60,9 +60,9 @@ h3 {
     justify-content: center;
 }
 
-/* #project-name {
+#project-name {
     background: #313841;
-} */
+}
 
 #projects-display {
     display: grid;

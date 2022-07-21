@@ -44,10 +44,7 @@ h2 {
 
 h3 {
     text-align: center;
-}
-
-#header {
-    padding-top: 30px;
+    padding: 10px;
 }
 
 #welcome-text {
@@ -59,10 +56,6 @@ h3 {
     background: #45567D;
     justify-content: center;
 }
-
-/* #project-name {
-    background: #313841;
-} */
 
 #projects-display {
     display: grid;
